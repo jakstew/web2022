@@ -44,14 +44,6 @@ nav ul li a:hover {
   text-decoration: underline;
 }
 
-nav ul li:nth-child(2) {
-  background-color: #f3dfa2;
-  color: #0000000;
-  border: 1px solid #f3dfa2;
-  padding: 1rem 4rem 1rem 4rem;
-  font-weight: bold;
-  text-decoration: underline;
-}
 
 nav ul li {
   background-color: #000;
