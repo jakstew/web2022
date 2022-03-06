@@ -96,12 +96,7 @@ figcaption {
   font-family: arial, sans-serif;
 }
 
-fig-figcaption a {
-  text-align: center
-  color: #000;
-  text-transform: uppercase;
-  text-decoration: none;
-}
+
 
 footer {
   background-color: #940606;
