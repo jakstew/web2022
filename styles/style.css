@@ -80,6 +80,7 @@ nav ul li {
 }
 
 figure {
+  text-align: center;
   vertical-align: top;
   padding: 1em 1em 0 1em;
 }
