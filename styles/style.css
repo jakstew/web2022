@@ -17,19 +17,18 @@ header {
   text-transform: uppercase;
   border-top: 15px dashed black;
   border-bottom: 15px dashed black;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
 }
 
 nav ul {
   display: flex;
+  flex-wrap: wrap;
   border: 1px solid red;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  justify-items: center;
 
 }
 
 header img {
-  height: 10%;
-  width: 15%;
+  max-width: 100%;
 }
 
 nav ul {
