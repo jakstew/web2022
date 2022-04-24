@@ -11,9 +11,3 @@ if (new Date().getHours() > 18) {
   wrapperBody[0].style.backgroundColor = 'black';
   wrapperBody[0].style.color = 'white';
 }
-
-if (new Date().getHours() > 18) {
-  const td = document.getElementById('td');
-  td.style.backgroundColor = 'black';
-  td.style.color = 'white';
-}
